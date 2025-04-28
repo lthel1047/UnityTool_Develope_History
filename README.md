@@ -11,6 +11,8 @@ Unity에 개발편의를 위한 툴 개발 일지
   
   실시간으로 프로파일링 가능하며 피드백 받을 수 있으며 기획자도 한눈에 문제를 파악할 수 있는 툴
   유니티에 있는 stats 기능과의 차별점 필요
+
+  ![Image](https://github.com/user-attachments/assets/178fc669-2952-4e28-886b-daf08112d891)
   
 - 기능 항목
   
