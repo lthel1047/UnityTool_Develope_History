@@ -15,11 +15,17 @@ Unity에 개발편의를 위한 툴 개발 일지
 - 기능 항목
   
   Performance: 기존 FPS/메모리/드로우콜/배칭
+  
   Heatmap: 시간 구간별 FPS 히트맵
+  
   Asset Budget: 씬 내 상위 에셋 Draw Calls·메모리 순위
-  Scenario: 시나리오별 자동 테스트 버튼
+  
+  Scenario: 시나리오별 자동 테스트 버튼 ( 기획자가 레벨별 테스트 기능 )
+  
   Warnings: 기획자용 경고 메시지
+  
   KPI: 목표 값 설정 및 커스텀 KPI
+  
   Reports: CSV 리포트 추출
   
   ![Image](https://github.com/user-attachments/assets/237d2645-4673-441d-a397-ad4ed99cf5be)
